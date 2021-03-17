@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @d1zzzzy
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently prepare for interview
+- 📫 dizzzzy.fe@gmail.com
